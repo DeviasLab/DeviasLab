@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash)](https://skillicons.dev)  
-<img src="./assets/bulma.png" style="width:47px"></img>
+<img src="./assets/gitHub.png" style="width:47px"></img>
 
 <!--
 **DeviasLab/deviaslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
